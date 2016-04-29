@@ -11,7 +11,11 @@ Créer un mini blog permettant de :
 
 ![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/acceuil_blog.png)
 
-![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/ajoute_article.png)
+## Ajouter articles
+
+![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/ajouter_article.png)
+
+## Search by author
 
 ![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/search_blog.png)
 
@@ -25,7 +29,11 @@ Créer un mini blog permettant de :
 
 ![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/dashboard_blog.png)
 
+## Modération articles
+
 ![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/action_blog.png)
+
+## Supprimer commentaires
 
 ![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/delete_comments.png)
 
