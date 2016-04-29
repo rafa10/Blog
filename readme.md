@@ -37,6 +37,21 @@ Créer un mini blog permettant de :
 
 ![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/delete_comments.png)
 
+## Base de données
+
+![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/database_blog.png)
+
+## Table Articles
+
+![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/table_articles.png)
+
+## Table Articles
+
+![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/table_comments.png)
+
+## Table Articles
+
+![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/table_users.png)
 
 ## Contributing
 
