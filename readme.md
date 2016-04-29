@@ -19,6 +19,8 @@ Créer un mini blog permettant de :
 
 ![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/search_blog.png)
 
+## Commentaires
+
 ![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/comments_blog.png)
 
 ## Auth
