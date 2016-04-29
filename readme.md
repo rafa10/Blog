@@ -23,7 +23,7 @@ Créer un mini blog permettant de :
 
 ## Auth
 
-![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/auth_blg.png)
+![alt tag](https://raw.githubusercontent.com/rafa10/Blog/master/auth_blog.png)
 
 ## Dashboard
 
